@@ -1,0 +1,22 @@
+[
+  {
+    "id": "2f8195f5-a849-4b6a-b7dd-be9c0c4288ed",
+    "name": "John Doe",
+    "email": "john@test.com",
+    "password": "$2b$10$nW6dXog9EoEJDThrpp0bKOwUTkSrg8sRKWvtT9Xgk1BlMz/23GKlO",
+    "role": "student",
+    "active": true,
+    "createdAt": "2026-06-01T08:41:24.787Z",
+    "updatedAt": "2026-06-04T04:59:45.654Z"
+  },
+  {
+    "id": "606aed43-01cb-466b-a97a-20724f645e3f",
+    "name": "Admin User",
+    "email": "admin@test.com",
+    "password": "$2b$10$jF/u2SAO.2.jt3M00Ryr6.EMOIiNsLxORCtZk.sKt5mmuttBiyGiG",
+    "role": "admin",
+    "active": true,
+    "createdAt": "2026-06-04T04:57:04.167Z",
+    "updatedAt": "2026-06-04T04:57:04.167Z"
+  }
+]

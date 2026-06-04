@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c48255e6-dc02-47bd-b0d3-b06d28f38c1b",
+    "userId": "2f8195f5-a849-4b6a-b7dd-be9c0c4288ed",
+    "bedtime": "22:30",
+    "wakeTime": "06:30",
+    "duration": 8,
+    "quality": 5,
+    "date": "2026-06-01",
+    "notes": "",
+    "createdAt": "2026-06-04T05:33:11.816Z",
+    "updatedAt": "2026-06-04T05:34:18.930Z"
+  },
+  {
+    "id": "fef92c6b-b952-4261-9202-19c15a88ce36",
+    "userId": "2f8195f5-a849-4b6a-b7dd-be9c0c4288ed",
+    "bedtime": "23:25",
+    "wakeTime": "06:40",
+    "duration": 7.3,
+    "quality": 4,
+    "date": "2026-06-02",
+    "notes": "",
+    "createdAt": "2026-06-04T05:33:35.577Z",
+    "updatedAt": "2026-06-04T05:34:22.858Z"
+  },
+  {
+    "id": "05b7f4ff-cc7a-4335-a565-b9e3da2c7529",
+    "userId": "2f8195f5-a849-4b6a-b7dd-be9c0c4288ed",
+    "bedtime": "00:15",
+    "wakeTime": "06:40",
+    "duration": 6.4,
+    "quality": 3,
+    "date": "2026-06-03",
+    "notes": "",
+    "createdAt": "2026-06-04T05:34:11.066Z",
+    "updatedAt": "2026-06-04T05:34:28.585Z"
+  }
+]

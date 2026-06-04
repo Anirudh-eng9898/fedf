@@ -1,0 +1,25 @@
+[
+  {
+    "id": "5b8f8130-cd84-4d1a-89cc-502ede00012f",
+    "creatorId": "2f8195f5-a849-4b6a-b7dd-be9c0c4288ed",
+    "creatorName": "John Doe",
+    "title": "7-Day Step Challenge",
+    "metric": "steps",
+    "targetValue": 50000,
+    "durationDays": 7,
+    "startDate": "2026-06-04T05:36:20.072Z",
+    "endDate": "2026-06-11T05:36:20.072Z",
+    "status": "active",
+    "participants": [
+      {
+        "userId": "2f8195f5-a849-4b6a-b7dd-be9c0c4288ed",
+        "email": "john@test.com",
+        "name": "John Doe",
+        "status": "accepted",
+        "progress": 0
+      }
+    ],
+    "createdAt": "2026-06-04T05:36:20.072Z",
+    "updatedAt": "2026-06-04T05:36:20.072Z"
+  }
+]

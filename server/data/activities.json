@@ -1,0 +1,50 @@
+[
+  {
+    "id": "5c5e1904-afee-4c91-9507-5bdec770f564",
+    "userId": "2f8195f5-a849-4b6a-b7dd-be9c0c4288ed",
+    "type": "Walking",
+    "duration": 45,
+    "intensity": "Low",
+    "date": "2026-06-01",
+    "notes": "",
+    "calories": 158,
+    "createdAt": "2026-06-04T05:30:56.872Z",
+    "updatedAt": "2026-06-04T05:32:04.625Z"
+  },
+  {
+    "id": "247e1186-11be-434b-8f70-118f7f783fc0",
+    "userId": "2f8195f5-a849-4b6a-b7dd-be9c0c4288ed",
+    "type": "Gym",
+    "duration": 40,
+    "intensity": "Medium",
+    "date": "2026-06-02",
+    "notes": "",
+    "calories": 300,
+    "createdAt": "2026-06-04T05:31:13.901Z",
+    "updatedAt": "2026-06-04T05:32:21.357Z"
+  },
+  {
+    "id": "2e56669d-f061-4b60-aef5-7bb0b6957856",
+    "userId": "2f8195f5-a849-4b6a-b7dd-be9c0c4288ed",
+    "type": "Running",
+    "duration": 30,
+    "intensity": "High",
+    "date": "2026-06-03",
+    "notes": "",
+    "calories": 420,
+    "createdAt": "2026-06-04T05:31:31.104Z",
+    "updatedAt": "2026-06-04T05:31:31.104Z"
+  },
+  {
+    "id": "78a32d6a-8a42-4df9-80d3-5d1d7ffa042f",
+    "userId": "2f8195f5-a849-4b6a-b7dd-be9c0c4288ed",
+    "type": "Walking",
+    "duration": 45,
+    "intensity": "Medium",
+    "date": "2026-06-04",
+    "notes": "",
+    "calories": 203,
+    "createdAt": "2026-06-04T05:36:43.197Z",
+    "updatedAt": "2026-06-04T05:36:43.197Z"
+  }
+]

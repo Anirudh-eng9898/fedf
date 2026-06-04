@@ -1,0 +1,13 @@
+[
+  {
+    "id": "336f6a85-853e-4293-8fac-b3dc1bf02723",
+    "userId": "2f8195f5-a849-4b6a-b7dd-be9c0c4288ed",
+    "activityMinutes": 150,
+    "sleepHours": 8,
+    "hydrationMl": 2500,
+    "steps": 8000,
+    "weekStart": "2026-06-04",
+    "createdAt": "2026-06-04T05:35:45.919Z",
+    "updatedAt": "2026-06-04T05:35:45.919Z"
+  }
+]

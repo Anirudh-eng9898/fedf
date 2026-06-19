@@ -1,0 +1,18 @@
+{
+  "name": "Wellness & Fitness Tracker Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:1-20-bullseye",
+  "forwardPorts": [5000, 5173],
+  "portsAttributes": {
+    "5000": {
+      "label": "Backend API Server",
+      "onAutoForward": "silent",
+      "visibility": "public"
+    },
+    "5173": {
+      "label": "Frontend Client (Vite)",
+      "onAutoForward": "openPreview",
+      "visibility": "private"
+    }
+  },
+  "postStartCommand": "npm run install:all && (npm run dev &)"
+}

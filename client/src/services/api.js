@@ -1,7 +1,17 @@
 import axios from 'axios';
 
+let baseURL = import.meta.env.VITE_API_URL || 'http://localhost:5000/api';
+
+// Dynamically handle GitHub Codespaces port forwarding URLs
+if (typeof window !== 'undefined' && window.location.hostname.includes('.app.github.dev')) {
+  const match = window.location.hostname.match(/-(\d+)\.app\.github\.dev/);
+  if (match) {
+    baseURL = `https://${window.location.hostname.replace(`-${match[1]}`, '-5000')}/api`;
+  }
+}
+
 const api = axios.create({
-  baseURL: import.meta.env.VITE_API_URL || 'http://localhost:5000/api',
+  baseURL,
   headers: { 'Content-Type': 'application/json' }
 });
 

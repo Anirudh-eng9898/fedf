@@ -34,5 +34,17 @@
     "notes": "",
     "createdAt": "2026-06-04T05:34:11.066Z",
     "updatedAt": "2026-06-04T05:34:28.585Z"
+  },
+  {
+    "id": "619c7300-e7c7-45c6-b705-22fe703769ae",
+    "userId": "2f8195f5-a849-4b6a-b7dd-be9c0c4288ed",
+    "bedtime": "22:00",
+    "wakeTime": "05:30",
+    "duration": 7.5,
+    "quality": 4,
+    "date": "2026-06-04",
+    "notes": "",
+    "createdAt": "2026-06-05T09:06:18.012Z",
+    "updatedAt": "2026-06-05T09:06:18.012Z"
   }
 ]

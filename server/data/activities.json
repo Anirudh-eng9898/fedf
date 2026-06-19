@@ -46,5 +46,17 @@
     "calories": 203,
     "createdAt": "2026-06-04T05:36:43.197Z",
     "updatedAt": "2026-06-04T05:36:43.197Z"
+  },
+  {
+    "id": "4f42c20d-e67d-4500-956c-bbbd5d8044ee",
+    "userId": "2f8195f5-a849-4b6a-b7dd-be9c0c4288ed",
+    "type": "Walking",
+    "duration": 35,
+    "intensity": "Low",
+    "date": "2026-06-05",
+    "notes": "",
+    "calories": 123,
+    "createdAt": "2026-06-05T09:05:57.762Z",
+    "updatedAt": "2026-06-05T09:05:57.762Z"
   }
 ]
